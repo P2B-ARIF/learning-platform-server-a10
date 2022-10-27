@@ -15,8 +15,7 @@ app.get('/', (req, res) => {
 
 app.get('/subjectLists', (req, res) => {
     res.send(subjectsList)
-}) 
-  
+})  
 app.get('/detailsSubs/:id', (req, res) => {
     const id = req.params.id
     const detailSub = subjectDetails.filter(sd => sd.id === id)
