@@ -22,7 +22,7 @@ app.get('/detailsSubs/:id', (req, res) => {
     const detailSub = subjectDetails.filter(sd => sd.id === id)
     res.send(detailSub)
 })
-
+ 
 app.get('/subsDetails/:id', (req, res) => {
     const id = req.params.id;
     const subDetails = subjectDetails.find(subDetail => subDetail.id === id)
