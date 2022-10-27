@@ -20,7 +20,7 @@ app.get('/subjectLists', (req, res) => {
 app.get('/detailsSubs/:id', (req, res) => {
     const id = req.params.id
     const detailSub = subjectDetails.filter(sd => sd.id === id)
-    res.send(detailSub)
+    res.send(detailSub) 
 })
 
 app.get('/subsDetails/:id', (req, res) => {
