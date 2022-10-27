@@ -1,0 +1,41 @@
+[
+  {
+    "id": "01",
+    "icon": "FaHtml5",
+    "name": "HTML"
+  },
+  {
+    "id": "02",
+    "icon": "<FaCss3 />",
+    "name": "CSS"
+  },
+  {
+    "id": "03",
+    "icon": "<FaJs />",
+    "name": "JavaScript"
+  },
+  {
+    "id": "04",
+    "icon": "<FaReact />",
+    "name": "React JS"
+  },
+  {
+    "id": "05",
+    "icon": "<FaNodeJs />",
+    "name": "Node JS"
+  },
+  {
+    "id": "06",
+    "icon": "<FaBootstrap />",
+    "name": "BootStrap"
+  },
+  {
+    "id": "07",
+    "icon": "<FaGithub /> ",
+    "name": "Github"
+  },
+  {
+    "id": "08",
+    "name": "TailWind CSS"
+  }
+]

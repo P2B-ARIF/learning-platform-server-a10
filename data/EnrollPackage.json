@@ -1,0 +1,66 @@
+[
+  {
+    "id": "01",
+    "icon": "<FaHtml5/>",
+    "name": "HTML",
+    "title": "HTML is the standard markup language for creating Web pages.",
+    "img": "https://c4.wallpaperflare.com/wallpaper/887/817/276/html-5-html-5-logo-wallpaper-preview.jpg",
+    "details": "HTML stands for Hyper Text Markup Language for creating Web pages. HTML describes the structure of a Web page, HTML consists of a series of elements and tell the browser how to display the content    "
+  },
+  {
+    "id": "02",
+    "icon": "<FaCss3 />",
+    "name": "CSS",
+    "title": "CSS is the language we use to style a Web page.",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--cqZIl0gD--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/elytski1o23ybosxmors.jpg",
+    "details": "CSS stands for Cascading Style Sheets . CSS describes how HTML elements are to be displayed on screen, paper, or in other media. CSS saves a lot of work. It can control the layout of multiple web pages all at once. External stylesheets are stored in CSS files"
+  },
+  {
+    "id": "03",
+    "icon": "<FaJs />",
+    "name": "JavaScript",
+    "title": "This page contains some examples of what JavaScript can do.",
+    "img": "https://www.workato.com/product-hub/wp-content/uploads/2020/12/workato-blog-JavaScript-20201208-bl-01.jpg",
+    "details": "This page contains some examples of what JavaScript can do. JavaScript and Java are completely different languages, both in concept and design.   ",
+    "price": "$135"
+  },
+  {
+    "id": "04",
+    "icon": "<FaReact />",
+    "name": "React JS",
+    "title": "A JavaScript library for building user interfaces",
+    "img": "https://wallpaperaccess.com/full/3909258.jpg",
+    "details": "React makes it painless to create interactive UIs. React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on UI components. "
+  },
+  {
+    "id": "05",
+    "icon": "<FaNodeJs />",
+    "name": "Node JS",
+    "title": "Node.js is an open source server environment;",
+    "img": "https://wallpapercave.com/wp/wp6606918.jpg",
+    "details": "Node.js is an open source server environment. Node.js is free. Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.)    "
+  },
+  {
+    "id": "06",
+    "icon": "<FaBootstrap />",
+    "name": "BootStrap",
+    "title": "Bootstrap is the most popular CSS Framework for developing responsive",
+    "img": "https://wallpaperaccess.com/full/4623125.jpg",
+    "details": "Bootstrap is a powerful CSS Framework for developing responsive, feature-packed frontend toolkit. Build anything—from prototype to production—in minutes."
+  },
+  {
+    "id": "07",
+    "icon": "<FaGithub /> ",
+    "name": "Github",
+    "title": "The complete developer platform to build, scale, and deliver secure software.",
+    "img": "https://cdn.neowin.com/news/images/uploaded/2021/04/1619644762_github-desktop_story.jpg",
+    "details": "Record or rewind any change to your code to keep you and your team in sync. Host it all for free with unlimited public and private repositories."
+  },
+  {
+    "id": "08",
+    "name": "TailWind CSS",
+    "title": "A utility-first CSS framework packed",
+    "img": "https://miro.medium.com/max/1400/1*_6ooq0R60ba3UT5c-QVemA.png",
+    "details": "A utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup. Node.js uses JavaScript on the server.    "
+  }
+]

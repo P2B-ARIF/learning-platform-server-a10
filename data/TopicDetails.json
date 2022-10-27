@@ -1,0 +1,418 @@
+[
+  {
+    "id": "01",
+    "name": "HTML",
+    "img": "https://www.tutorialrepublic.com/lib/images/html-illustration.png",
+    "details": [
+      {
+        "id": "01",
+        "title": "Introduction",
+        "details": "HTML is the standard markup language for creating Web pages."
+      },
+      {
+        "id": "02",
+        "title": "Elements",
+        "details": "An HTML element is defined by a start tag, some content, and an end tag"
+      },
+      {
+        "id": "03",
+        "title": "Attributes",
+        "details": "HTML attributes provide additional information about HTML elements."
+      },
+      {
+        "id": "04",
+        "title": "Headings",
+        "details": "HTML headings are titles or subtitles that you want to display on a webpage."
+      },
+      {
+        "id": "05",
+        "title": "Paragraphs",
+        "details": "A paragraph always starts on a new line, and is usually a block of text."
+      },
+      {
+        "id": "06",
+        "title": "Styles",
+        "details": "The HTML style attribute is used to add styles to an element, such as color, font, size, and more."
+      },
+      {
+        "id": "07",
+        "title": "Colors",
+        "details": "HTML colors are specified with predefined color names, or with RGB, HEX, HSL, RGBA, or HSLA values."
+      },
+      {
+        "id": "08",
+        "title": "Css",
+        "details": "CSS stands for Cascading Style Sheets. CSS saves a lot of work. It can control the layout of multiple web pages all at once."
+      },
+      {
+        "id": "09",
+        "title": "Links",
+        "details": "Links are found in nearly all web pages. Links allow users to click their way from page to page."
+      }
+    ]
+  },
+  {
+    "id": "02",
+    "name": "CSS",
+    "img": "https://community-cdn-digitalocean-com.global.ssl.fastly.net/bjwdVuoZ45aGMEVbbbYpf9YZ",
+    "details": [
+      {
+        "id": "01",
+        "title": "Introduction",
+        "details": "CSS stands for Cascading Style Sheets. CSS is the language we use to style a Web page."
+      },
+      {
+        "id": "02",
+        "title": "Selectors",
+        "details": "A CSS selector selects the HTML element(s) you want to style."
+      },
+      {
+        "id": "03",
+        "title": "Colors",
+        "details": "Colors are specified using predefined color names, or RGB, HEX, HSL, RGBA, HSLA values."
+      },
+      {
+        "id": "04",
+        "title": "Backgrounds",
+        "details": "The CSS background properties are used to add background effects for elements."
+      },
+      {
+        "id": "05",
+        "title": "Borders",
+        "details": "The CSS border properties allow you to specify the style, width, and color of an element's border."
+      },
+      {
+        "id": "06",
+        "title": "Margins",
+        "details": "Margins are used to create space around elements, outside of any defined borders."
+      },
+      {
+        "id": "07",
+        "title": "Padding",
+        "details": "Padding is used to create space around an element's content, inside of any defined borders.        "
+      },
+      {
+        "id": "08",
+        "title": "Tables",
+        "details": "To specify table borders in CSS, use the border property. The example below specifies a solid border for <table>, <th>, and <td> elements:"
+      },
+      {
+        "id": "09",
+        "title": "Display",
+        "details": "The display property is the most important CSS property for controlling layout."
+      }
+    ]
+  },
+  {
+    "id": "03",
+    "name": "JavaScript",
+    "img": "https://apostube.com/wp-content/uploads/2022/06/js1.jpg",
+    "details": [
+      {
+        "id": "01",
+        "title": "Operators",
+        "details": "There are different types of JavaScript operators: Arithmetic Operators, Assignment Operators, Comparison Operators, Logical Operators, Conditional Operators,Type Operators"
+      },
+      {
+        "id": "02",
+        "title": "Arithmetic",
+        "details": "Arithmetic operators perform arithmetic on numbers (literals or variables)."
+      },
+      {
+        "id": "03",
+        "title": "Data Types",
+        "details": "JavaScript variables can hold different data types: numbers, strings, objects and more:"
+      },
+      {
+        "id": "04",
+        "title": "Functions",
+        "details": "A JavaScript function is a block of code designed to perform a particular task. A JavaScript function is executed when something invokes it (calls it)."
+      },
+      {
+        "id": "05",
+        "title": "Objects",
+        "details": "Objects are variables too. But objects can contain many values."
+      },
+      {
+        "id": "06",
+        "title": "Events",
+        "details": "When JavaScript is used in HTML pages, JavaScript can 'react' on these events.    "
+      },
+      {
+        "id": "07",
+        "title": "Strings",
+        "details": "JavaScript strings are for storing and manipulating text."
+      },
+      {
+        "id": "08",
+        "title": "Numbers",
+        "details": "JavaScript has only one type of number. Numbers can be written with or without decimals."
+      },
+      {
+        "id": "09",
+        "title": "Arrays",
+        "details": "If you have a list of items (a list of car names, for example), storing the cars in single variables could look like this:"
+      }
+    ]
+  },
+  {
+    "id": "04",
+    "name": "React JS",
+    "img": "https://codersera.com/blog/wp-content/uploads/2019/12/Learn-Reactjs.jpeg",
+    "details": [
+      {
+        "id": "01",
+        "title": "React JS",
+        "details": "React is a JavaScript library for building user interfaces. Learn what React is all about on our homepage or in the tutorial."
+      },
+      {
+        "id": "02",
+        "title": "React JS",
+        "details": "React is a JavaScript library for building user interfaces. Learn what React is all about on our homepage or in the tutorial."
+      },
+      {
+        "id": "03",
+        "title": "React JS",
+        "details": "React is a JavaScript library for building user interfaces. Learn what React is all about on our homepage or in the tutorial."
+      },
+      {
+        "id": "04",
+        "title": "React JS",
+        "details": "React is a JavaScript library for building user interfaces. Learn what React is all about on our homepage or in the tutorial."
+      },
+      {
+        "id": "05",
+        "title": "React JS",
+        "details": "React is a JavaScript library for building user interfaces. Learn what React is all about on our homepage or in the tutorial."
+      },
+      {
+        "id": "06",
+        "title": "React JS",
+        "details": "React is a JavaScript library for building user interfaces. Learn what React is all about on our homepage or in the tutorial."
+      },
+      {
+        "id": "07",
+        "title": "React JS",
+        "details": "React is a JavaScript library for building user interfaces. Learn what React is all about on our homepage or in the tutorial."
+      },
+      {
+        "id": "08",
+        "title": "React JS",
+        "details": "React is a JavaScript library for building user interfaces. Learn what React is all about on our homepage or in the tutorial."
+      },
+      {
+        "id": "09",
+        "title": "React JS",
+        "details": "React is a JavaScript library for building user interfaces. Learn what React is all about on our homepage or in the tutorial."
+      }
+    ]
+  },
+  {
+    "id": "05",
+    "name": "Node JS",
+    "img": "https://www.hyyat.com/zasogooh/2021/08/Nodejs.jpg",
+    "details": [
+      {
+        "id": "01",
+        "title": "Node JS",
+        "details": "Node.js is an open source server environment; Node.js is free ; Node.js can generate dynamic page content"
+      },
+      {
+        "id": "02",
+        "title": "Node JS",
+        "details": "Node.js is an open source server environment; Node.js is free ; Node.js can generate dynamic page content"
+      },
+      {
+        "id": "03",
+        "title": "Node JS",
+        "details": "Node.js is an open source server environment; Node.js is free ; Node.js can generate dynamic page content"
+      },
+      {
+        "id": "04",
+        "title": "Node JS",
+        "details": "Node.js is an open source server environment; Node.js is free ; Node.js can generate dynamic page content"
+      },
+      {
+        "id": "05",
+        "title": "Node JS",
+        "details": "Node.js is an open source server environment; Node.js is free ; Node.js can generate dynamic page content"
+      },
+      {
+        "id": "06",
+        "title": "Node JS",
+        "details": "Node.js is an open source server environment; Node.js is free ; Node.js can generate dynamic page content"
+      },
+      {
+        "id": "07",
+        "title": "Node JS",
+        "details": "Node.js is an open source server environment; Node.js is free ; Node.js can generate dynamic page content"
+      },
+      {
+        "id": "08",
+        "title": "Node JS",
+        "details": "Node.js is an open source server environment; Node.js is free ; Node.js can generate dynamic page content"
+      },
+      {
+        "id": "09",
+        "title": "Node JS",
+        "details": "Node.js is an open source server environment; Node.js is free ; Node.js can generate dynamic page content"
+      }
+    ]
+  },
+  {
+    "id": "06",
+    "name": "BootStrap",
+    "img": "https://getbootstrap.com/docs/5.2/assets/img/bootstrap-icons.png",
+    "details": [
+      {
+        "id": "01",
+        "title": "BootStrap",
+        "details": "Bootstrap utilizes Sass for a modular and customizable architecture. Import only the components you need"
+      },
+      {
+        "id": "02",
+        "title": "BootStrap",
+        "details": "Bootstrap utilizes Sass for a modular and customizable architecture. Import only the components you need"
+      },
+      {
+        "id": "03",
+        "title": "BootStrap",
+        "details": "Bootstrap utilizes Sass for a modular and customizable architecture. Import only the components you need"
+      },
+      {
+        "id": "04",
+        "title": "BootStrap",
+        "details": "Bootstrap utilizes Sass for a modular and customizable architecture. Import only the components you need"
+      },
+      {
+        "id": "05",
+        "title": "BootStrap",
+        "details": "Bootstrap utilizes Sass for a modular and customizable architecture. Import only the components you need"
+      },
+      {
+        "id": "06",
+        "title": "BootStrap",
+        "details": "Bootstrap utilizes Sass for a modular and customizable architecture. Import only the components you need"
+      },
+      {
+        "id": "07",
+        "title": "BootStrap",
+        "details": "Bootstrap utilizes Sass for a modular and customizable architecture. Import only the components you need"
+      },
+      {
+        "id": "08",
+        "title": "BootStrap",
+        "details": "Bootstrap utilizes Sass for a modular and customizable architecture. Import only the components you need"
+      },
+      {
+        "id": "09",
+        "title": "BootStrap",
+        "details": "Bootstrap utilizes Sass for a modular and customizable architecture. Import only the components you need"
+      }
+    ]
+  },
+  {
+    "id": "07",
+    "name": "TailWind CSS",
+    "img": "https://miro.medium.com/max/1400/1*_6ooq0R60ba3UT5c-QVemA.png",
+    "details": [
+      {
+        "id": "01",
+        "title": "TailWind CSS",
+        "details": "A utility-first CSS framework packed with classes like flex , pt-4 , text-center and rotate-90 that can be composed to build any design, directly in your markup"
+      },
+      {
+        "id": "02",
+        "title": "TailWind CSS",
+        "details": "A utility-first CSS framework packed with classes like flex , pt-4 , text-center and rotate-90 that can be composed to build any design, directly in your markup"
+      },
+      {
+        "id": "03",
+        "title": "TailWind CSS",
+        "details": "A utility-first CSS framework packed with classes like flex , pt-4 , text-center and rotate-90 that can be composed to build any design, directly in your markup"
+      },
+      {
+        "id": "04",
+        "title": "TailWind CSS",
+        "details": "A utility-first CSS framework packed with classes like flex , pt-4 , text-center and rotate-90 that can be composed to build any design, directly in your markup"
+      },
+      {
+        "id": "05",
+        "title": "TailWind CSS",
+        "details": "A utility-first CSS framework packed with classes like flex , pt-4 , text-center and rotate-90 that can be composed to build any design, directly in your markup"
+      },
+      {
+        "id": "06",
+        "title": "TailWind CSS",
+        "details": "A utility-first CSS framework packed with classes like flex , pt-4 , text-center and rotate-90 that can be composed to build any design, directly in your markup"
+      },
+      {
+        "id": "07",
+        "title": "TailWind CSS",
+        "details": "A utility-first CSS framework packed with classes like flex , pt-4 , text-center and rotate-90 that can be composed to build any design, directly in your markup"
+      },
+      {
+        "id": "08",
+        "title": "TailWind CSS",
+        "details": "A utility-first CSS framework packed with classes like flex , pt-4 , text-center and rotate-90 that can be composed to build any design, directly in your markup"
+      },
+      {
+        "id": "09",
+        "title": "TailWind CSS",
+        "details": "A utility-first CSS framework packed with classes like flex , pt-4 , text-center and rotate-90 that can be composed to build any design, directly in your markup"
+      }
+    ]
+  },
+  {
+    "id": "08",
+    "name": "Github",
+    "img": "https://github.githubassets.com/images/modules/site/social-cards/github-social.png",
+    "details": [
+      {
+        "id": "01",
+        "title": "Github",
+        "details": "GitHub is an online software development platform used for storing, tracking, and collaborating on software projects."
+      },
+      {
+        "id": "02",
+        "title": "Github",
+        "details": "GitHub is an online software development platform used for storing, tracking, and collaborating on software projects."
+      },
+      {
+        "id": "03",
+        "title": "Github",
+        "details": "GitHub is an online software development platform used for storing, tracking, and collaborating on software projects."
+      },
+      {
+        "id": "04",
+        "title": "Github",
+        "details": "GitHub is an online software development platform used for storing, tracking, and collaborating on software projects."
+      },
+      {
+        "id": "05",
+        "title": "Github",
+        "details": "GitHub is an online software development platform used for storing, tracking, and collaborating on software projects."
+      },
+      {
+        "id": "06",
+        "title": "Github",
+        "details": "GitHub is an online software development platform used for storing, tracking, and collaborating on software projects."
+      },
+      {
+        "id": "07",
+        "title": "Github",
+        "details": "GitHub is an online software development platform used for storing, tracking, and collaborating on software projects."
+      },
+      {
+        "id": "08",
+        "title": "Github",
+        "details": "GitHub is an online software development platform used for storing, tracking, and collaborating on software projects."
+      },
+      {
+        "id": "09",
+        "title": "Github",
+        "details": "GitHub is an online software development platform used for storing, tracking, and collaborating on software projects."
+      }
+    ]
+  }
+]
